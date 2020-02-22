@@ -26,7 +26,7 @@
   "peerDependencies": {
     "lottie-react-native": "^3.1.0",
     "react": "16.9.0",
-    "react-native": "0.61.0-rc.0",
+    "react-native": "0.61.0-rc.0"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
@@ -34,6 +34,6 @@
     "jest": "20.0.4",
     "lottie-react-native": "^3.1.0",
     "react": "16.9.0",
-    "react-native": "0.61.0-rc.0",
+    "react-native": "0.61.0-rc.0"
   }
 }
